@@ -113,6 +113,22 @@
           "text": "The skeleton project is intended to help you get started with Perspective. The project is designed to be mobile-responsive and fully utilizes styles. Feel free to modify as desired."
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "hasDelegate": true,
+          "name": "Description_8"
+        },
+        "position": {
+          "shrink": 0
+        },
+        "props": {
+          "style": {
+            "classes": "Page/Text Page/Margins"
+          },
+          "text": "The skeleton project is intended to help you get started with Perspective. The project is designed to be mobile-responsive and fully utilizes styles. Feel free to modify as desired."
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {

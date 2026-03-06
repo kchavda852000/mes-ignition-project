@@ -31,7 +31,11 @@
             "icon": "home",
             "text": "Home"
           },
-          "path": "Page/Embedded/Title"
+          "path": "Page/Embedded/Title",
+          "style": {
+            "color": "#E70C0C",
+            "fontFamily": "Arial"
+          }
         },
         "type": "ia.display.view"
       },
